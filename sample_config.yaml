@@ -1,0 +1,4 @@
+telegram:
+  token: "<YOUR_TELEGRAM_BOT_TOKEN>"
+  webhook_url: "https://<YOUR_DOMAIN>/webhook"
+  bot_owner: "<YOUR_TELEGRAM_ID>"
