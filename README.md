@@ -81,7 +81,7 @@ server {
 直接執行 Python 腳本：
 
 ```bash
-python3 main.py
+python3 line_gift.py
 ```
 
 ## 🤖 使用指令
